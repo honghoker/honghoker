@@ -1,7 +1,6 @@
 ## honghoker
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 
 ### Tech Stack
 **Languages & Platforms**
