@@ -1,12 +1,19 @@
 ## honghoker
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
+
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker) 
+<a href="https://velog.io/@honghoker"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
+<a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+
 
 ### Tech Stack
 **Languages & Platforms**
  
 - ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-F7F7F7?style=flat&logo=flutter&logoColor=037ee2)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
+<!-- ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)  -->
 
 **Tools**
 - ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
