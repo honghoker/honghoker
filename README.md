@@ -2,7 +2,7 @@
 
 
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <a href="https://velog.io/@honghoker"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
 <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
