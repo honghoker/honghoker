@@ -9,11 +9,9 @@
 
 
 ### Tech Stack
-**Languages & Platforms**
+**Languages**
  
 - ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-F7F7F7?style=flat&logo=flutter&logoColor=037ee2)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
-<!-- ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)  -->
 
 **Tools**
 - ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
