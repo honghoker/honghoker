@@ -4,7 +4,8 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <a href="https://velog.io/@honghoker"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
-<a href="https://bottlenose-snake-2a8.notion.site/2ae98c2e2d0f446d924c18dec2c17d34"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://bit.ly/3B6ktMI"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<!-- <a href="https://bottlenose-snake-2a8.notion.site/2ae98c2e2d0f446d924c18dec2c17d34"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
 
 
 
