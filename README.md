@@ -2,10 +2,12 @@
 
 
 
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <a href="https://velog.io/@honghoker"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
 <a href="https://bit.ly/3B6ktMI"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<!-- <a href="https://bottlenose-snake-2a8.notion.site/2ae98c2e2d0f446d924c18dec2c17d34"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
+<a href="https://bottlenose-snake-2a8.notion.site/2ae98c2e2d0f446d924c18dec2c17d34"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+-->
 
 
 
@@ -17,6 +19,11 @@
 **Tools**
 - ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 - ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia&logoColor=5468FF)
+
+<br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 
 
 <!--
