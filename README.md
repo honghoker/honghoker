@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm an iOS developer who loves sipping coffee in a cafe.
+#### I'm an iOS developer who loves sipping coffee in a cafe.
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinbein9@gmail.com)](mailto:sinbein9@gmail.com)
 - 🔭 I'm currently working at [@unicornsoft](https://www.unicorn-soft.com/) (since 2022-12)
