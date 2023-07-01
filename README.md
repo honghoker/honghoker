@@ -7,7 +7,7 @@
   - 🦄 serves [Unicorn Pro(iOS)](https://apps.apple.com/kr/app/id1672492731)
 - 😄 I'm familiar with Swift and UIKit
 - 🌱 I'm currently learning MacOS development with SwiftUI   
-- 🧩 I'm interested in solving an algorithm problem each day   
+- 🧩 I find it fun and rewarding to solve algorithm problems every day.
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <img src="http://mazandi.herokuapp.com/api?handle=honghoker&theme=warm"/>
