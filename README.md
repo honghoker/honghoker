@@ -1,36 +1,18 @@
-## honghoker
+## Hi there! 👋
 
+I'm an iOS developer who loves sipping coffee in a cafe.
 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinbein9@gmail.com)](mailto:sinbein9@gmail.com)
+- 🔭 I'm currently working at [@unicornsoft](https://www.unicorn-soft.com/) (since 2022-12)
+  - 🦄 serves [Unicorn Pro(iOS)](https://apps.apple.com/app/id1672492731)
+- 😄 I'm familiar with Swift and UIKit
+- 🌱 I'm currently learning MacOS development with SwiftUI   
+- 🧩 I'm interested in solving an algorithm problem each day   
 
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
-<a href="https://velog.io/@honghoker"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
-<a href="https://bit.ly/3B6ktMI"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://bottlenose-snake-2a8.notion.site/2ae98c2e2d0f446d924c18dec2c17d34"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
--->
-
-
-
-### Tech Stack
-**Languages**
- 
-- ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
-
-**Tools**
-- ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=algolia&logoColor=5468FF)
-
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <img src="http://mazandi.herokuapp.com/api?handle=honghoker&theme=warm"/>
 
 <!--
-**honghoker/honghoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
