@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinbein9@gmail.com)](mailto:sinbein9@gmail.com)
 - 🔭 I'm currently working at [@unicornsoft](https://www.unicorn-soft.com/) (since 2022-12)
-  - 🦄 serves [Unicorn Pro(iOS)](https://apps.apple.com/app/id1672492731)
+  - 🦄 serves [Unicorn Pro(iOS)](https://apps.apple.com/kr/app/id1672492731)
 - 😄 I'm familiar with Swift and UIKit
 - 🌱 I'm currently learning MacOS development with SwiftUI   
 - 🧩 I'm interested in solving an algorithm problem each day   
