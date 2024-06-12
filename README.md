@@ -13,6 +13,14 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=honghoker)](https://solved.ac/honghoker)
 <img src="http://mazandi.herokuapp.com/api?handle=honghoker&theme=warm"/>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/honghoker"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
